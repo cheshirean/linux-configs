@@ -4,3 +4,6 @@ require("cheshirean.plugins-setup")
 require("cheshirean.core.core-settings")
 require("cheshirean.core.key-remap")
 require("cheshirean.core.colour-scheme")
+
+-- Plugins
+require("cheshirean.plugins.telescope")
