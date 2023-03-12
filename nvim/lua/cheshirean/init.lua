@@ -7,3 +7,4 @@ require("cheshirean.core.colour-scheme")
 
 -- Plugins
 require("cheshirean.plugins.telescope")
+require("cheshirean.plugins.treesitter")
